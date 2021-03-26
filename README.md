@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zack-Cs
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning mobile devellopment 
+- 🌱 I’m currently learning mobile development
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
